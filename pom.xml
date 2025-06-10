@@ -24,9 +24,6 @@
         <module>ear</module>
     </modules>
     <!-- end::modules[] -->
-
-
-    
     
     <build>
         <pluginManagement>
